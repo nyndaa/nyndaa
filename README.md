@@ -171,6 +171,13 @@ I believe good software should be:
 
 ---
 
+
+
+<p align="center">
+  <b>Thanks for visiting my profile! 🚀</b>
+</p>
+
+
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=110&section=footer"
@@ -178,10 +185,3 @@ I believe good software should be:
     alt="Footer"
   />
 </p>
-
-<p align="center">
-  <b>Thanks for visiting my profile! 🚀</b>
-</p>
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=110&section=footer" width="100%" alt="Footer wave" />
