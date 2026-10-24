@@ -1,0 +1,165 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 260" width="900" height="260" role="img" aria-label="Animated night scene of a small island with a palm tree, a laptop typing code, a steaming coffee mug and a sailboat">
+  <defs>
+    <clipPath id="card"><rect width="900" height="260" rx="24"/></clipPath>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#050E24"/>
+      <stop offset="1" stop-color="#0B4A8F"/>
+    </linearGradient>
+    <linearGradient id="hz" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#6BC5F8" stop-opacity="0"/>
+      <stop offset="1" stop-color="#6BC5F8" stop-opacity="0.45"/>
+    </linearGradient>
+    <linearGradient id="sea" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0E7FC4"/>
+      <stop offset="1" stop-color="#052447"/>
+    </linearGradient>
+    <linearGradient id="sand" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FCE7A8"/>
+      <stop offset="1" stop-color="#D9A441"/>
+    </linearGradient>
+    <linearGradient id="shoot" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="1"/>
+    </linearGradient>
+    <radialGradient id="moonGlow">
+      <stop offset="0" stop-color="#E0F2FE" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#E0F2FE" stop-opacity="0"/>
+    </radialGradient>
+    <style>
+      text{font-family:'Fira Code','Cascadia Code',Consolas,monospace}
+      .tw{animation:twinkle 3s ease-in-out infinite}
+      .glyph{font-size:22px;fill:#7DD3FC;opacity:.55;animation:hover 5s ease-in-out infinite alternate}
+      .shoot{opacity:0;animation:shoot 9s ease-out infinite}
+      .far{animation:cruise 70s linear infinite}
+      .sway{transform-origin:412px 102px;animation:sway 4s ease-in-out infinite alternate}
+      .glow{animation:pulse 3s ease-in-out infinite}
+      .ln{transform-box:fill-box;transform-origin:left center;animation:type 7s ease-out infinite}
+      .cursor{animation:blink 1s steps(1) infinite}
+      .steam{opacity:0;animation:steam 3s ease-in-out infinite}
+      .jelly{animation:jelly 6s ease-in-out infinite alternate}
+      .bell{transform-box:fill-box;transform-origin:50% 100%;animation:bell 2.4s ease-in-out infinite}
+      .fish{animation:swim 20s linear infinite}
+      .waveA{animation:dA 7s linear infinite}
+      .waveB{animation:dB 5s linear infinite reverse}
+      @keyframes twinkle{0%,100%{opacity:.2}50%{opacity:1}}
+      @keyframes hover{from{transform:translateY(0)}to{transform:translateY(-10px)}}
+      @keyframes shoot{0%,68%{opacity:0;transform:translateX(0)}72%{opacity:1}86%{opacity:0;transform:translateX(280px)}100%{opacity:0;transform:translateX(280px)}}
+      @keyframes cruise{from{transform:translateX(-100px)}to{transform:translateX(1700px)}}
+      @keyframes sway{from{transform:rotate(-2.5deg)}to{transform:rotate(2.5deg)}}
+      @keyframes pulse{0%,100%{opacity:.1}50%{opacity:.22}}
+      @keyframes type{0%{transform:scaleX(0)}12%{transform:scaleX(1)}88%{transform:scaleX(1)}96%,100%{transform:scaleX(0)}}
+      @keyframes blink{0%,100%{opacity:1}50%{opacity:0}}
+      @keyframes steam{0%{opacity:0;transform:translateY(4px)}40%{opacity:.7}100%{opacity:0;transform:translateY(-8px)}}
+      @keyframes jelly{from{transform:translateY(0)}to{transform:translateY(-16px)}}
+      @keyframes bell{0%,100%{transform:scaleY(1)}50%{transform:scaleY(.86)}}
+      @keyframes swim{from{transform:translateX(-60px)}to{transform:translateX(980px)}}
+      @keyframes dA{from{transform:translateX(0)}to{transform:translateX(-160px)}}
+      @keyframes dB{from{transform:translateX(0)}to{transform:translateX(-120px)}}
+      @media (prefers-reduced-motion: reduce){*{animation:none !important}}
+    </style>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect width="900" height="260" fill="url(#sky)"/>
+    <rect y="140" width="900" height="56" fill="url(#hz)"/>
+
+    <circle cx="790" cy="56" r="52" fill="url(#moonGlow)"/>
+    <circle cx="790" cy="56" r="20" fill="#E0F2FE"/>
+    <circle cx="783" cy="50" r="4" fill="#BAE6FD" opacity="0.7"/>
+    <circle cx="797" cy="63" r="5" fill="#BAE6FD" opacity="0.6"/>
+
+    <circle class="tw" cx="60" cy="40" r="1.6" fill="#E0F2FE"/>
+    <circle class="tw" cx="150" cy="24" r="1.2" fill="#E0F2FE" style="animation-delay:.6s"/>
+    <circle class="tw" cx="330" cy="36" r="1.5" fill="#E0F2FE" style="animation-delay:1.2s"/>
+    <circle class="tw" cx="520" cy="22" r="1.3" fill="#E0F2FE" style="animation-delay:1.8s"/>
+    <circle class="tw" cx="610" cy="48" r="1.6" fill="#E0F2FE" style="animation-delay:.3s"/>
+    <circle class="tw" cx="700" cy="30" r="1.2" fill="#E0F2FE" style="animation-delay:2.2s"/>
+    <circle class="tw" cx="860" cy="110" r="1.4" fill="#E0F2FE" style="animation-delay:1s"/>
+    <circle class="tw" cx="95" cy="110" r="1.3" fill="#E0F2FE" style="animation-delay:2.5s"/>
+    <circle class="tw" cx="260" cy="130" r="1.1" fill="#E0F2FE" style="animation-delay:1.5s"/>
+    <circle class="tw" cx="720" cy="125" r="1.2" fill="#E0F2FE" style="animation-delay:.9s"/>
+    <circle class="tw" cx="430" cy="14" r="1.1" fill="#E0F2FE" style="animation-delay:2s"/>
+
+    <g transform="translate(110,34) rotate(22)">
+      <g class="shoot"><rect x="-56" y="-1" width="56" height="2" rx="1" fill="url(#shoot)"/></g>
+    </g>
+
+
+    <rect y="196" width="900" height="64" fill="url(#sea)"/>
+
+    <g transform="translate(0,192) scale(0.55)" opacity="0.85">
+      <g class="far">
+        <rect x="13" y="-26" width="1.5" height="26" fill="#E2E8F0"/>
+        <polygon points="14.5,-25 14.5,-2 31,-2" fill="#F8FAFC"/>
+        <polygon points="12.5,-20 12.5,-2 1,-2" fill="#BAE6FD"/>
+        <path d="M-1,0 L29,0 L24,7 L4,7 Z" fill="#B45309"/>
+      </g>
+    </g>
+
+    <g transform="translate(150,226)">
+      <g class="jelly">
+        <circle cx="0" cy="-6" r="18" fill="#F0ABFC" opacity="0.12"/>
+        <path class="bell" d="M-13,0 C-13,-17 13,-17 13,0 Z" fill="#F0ABFC" opacity="0.85"/>
+        <path d="M-7,1 q-3,8 0,15 q3,7 0,13" fill="none" stroke="#F0ABFC" stroke-width="1.8" stroke-linecap="round" opacity="0.7"/>
+        <path d="M0,1 q3,8 0,15 q-3,7 0,15" fill="none" stroke="#F0ABFC" stroke-width="1.8" stroke-linecap="round" opacity="0.7"/>
+        <path d="M7,1 q-3,8 0,15 q3,7 0,13" fill="none" stroke="#F0ABFC" stroke-width="1.8" stroke-linecap="round" opacity="0.7"/>
+      </g>
+    </g>
+    <g transform="translate(760,232)">
+      <g class="jelly" style="animation-duration:7.5s;animation-delay:-3s">
+        <path class="bell" d="M-9,0 C-9,-12 9,-12 9,0 Z" fill="#5EEAD4" opacity="0.8"/>
+        <path d="M-4,1 q-2,6 0,11 q2,5 0,9" fill="none" stroke="#5EEAD4" stroke-width="1.5" stroke-linecap="round" opacity="0.7"/>
+        <path d="M4,1 q-2,6 0,11 q2,5 0,9" fill="none" stroke="#5EEAD4" stroke-width="1.5" stroke-linecap="round" opacity="0.7"/>
+      </g>
+    </g>
+
+    <g transform="translate(0,220)">
+      <g class="fish">
+        <ellipse cx="0" cy="0" rx="8" ry="4" fill="#7DD3FC"/>
+        <polygon points="-7,0 -14,-5 -14,5" fill="#38BDF8"/>
+        <circle cx="4" cy="-1" r="1" fill="#071426"/>
+      </g>
+    </g>
+    <g transform="translate(0,238)">
+      <g class="fish" style="animation-duration:28s;animation-delay:-12s">
+        <ellipse cx="0" cy="0" rx="6" ry="3" fill="#FDBA74"/>
+        <polygon points="-5,0 -11,-4 -11,4" fill="#FB923C"/>
+        <circle cx="3" cy="-1" r="0.9" fill="#071426"/>
+      </g>
+    </g>
+
+    <path d="M300,238 C318,190 380,174 430,172 L600,172 C640,176 670,204 680,238 Z" fill="url(#sand)"/>
+    <path d="M600,172 C640,176 670,204 680,238 L570,238 C596,214 604,194 600,172 Z" fill="#B7791F" opacity="0.4"/>
+    <path d="M436,174 q-3,-10 -8,-12 q6,2 8,12 q2,-9 8,-11 q-5,3 -8,11 Z" fill="#16A34A"/>
+
+    <path d="M428,174 C426,150 418,126 412,102" fill="none" stroke="#8B5A2B" stroke-width="9" stroke-linecap="round"/>
+    <g class="sway">
+      <g transform="translate(412,102) rotate(-170)"><path d="M0,0 C18,-20 44,-18 66,6 C44,-6 20,-6 0,0 Z" fill="#16A34A"/></g>
+      <g transform="translate(412,102) rotate(-135)"><path d="M0,0 C18,-20 44,-18 66,6 C44,-6 20,-6 0,0 Z" fill="#22C55E"/></g>
+      <g transform="translate(412,102) rotate(-100)"><path d="M0,0 C18,-20 44,-18 66,6 C44,-6 20,-6 0,0 Z" fill="#16A34A"/></g>
+      <g transform="translate(412,102) rotate(-65)"><path d="M0,0 C18,-20 44,-18 66,6 C44,-6 20,-6 0,0 Z" fill="#22C55E"/></g>
+      <g transform="translate(412,102) rotate(-30)"><path d="M0,0 C18,-20 44,-18 66,6 C44,-6 20,-6 0,0 Z" fill="#16A34A"/></g>
+      <g transform="translate(412,102) rotate(5)"><path d="M0,0 C18,-20 44,-18 66,6 C44,-6 20,-6 0,0 Z" fill="#22C55E"/></g>
+      <circle cx="408" cy="108" r="4" fill="#78350F"/>
+      <circle cx="417" cy="110" r="4" fill="#92400E"/>
+    </g>
+
+    <ellipse class="glow" cx="516" cy="150" rx="64" ry="36" fill="#38BDF8"/>
+    <rect x="484" y="126" width="64" height="42" rx="3" fill="#0F172A" stroke="#94A3B8" stroke-width="1.5"/>
+    <rect class="ln" x="491" y="134" width="34" height="3" rx="1.5" fill="#38BDF8"/>
+    <rect class="ln" x="491" y="142" width="22" height="3" rx="1.5" fill="#A78BFA" style="animation-delay:.7s"/>
+    <rect class="ln" x="491" y="150" width="40" height="3" rx="1.5" fill="#34D399" style="animation-delay:1.4s"/>
+    <rect class="ln" x="491" y="158" width="16" height="3" rx="1.5" fill="#FBBF24" style="animation-delay:2.1s"/>
+    <rect class="cursor" x="510" y="156" width="3" height="7" fill="#E0F2FE"/>
+    <path d="M478,168 L554,168 L548,173 L484,173 Z" fill="#CBD5E1"/>
+
+    <rect x="571" y="160" width="14" height="12" rx="2" fill="#F8FAFC"/>
+    <ellipse cx="578" cy="160" rx="7" ry="2" fill="#7C2D12"/>
+    <path d="M585,163 q6,0 6,5 q0,5 -6,5" fill="none" stroke="#F8FAFC" stroke-width="2"/>
+    <path class="steam" d="M575,157 q-4,-6 0,-12 q4,-6 0,-12" fill="none" stroke="#E0F2FE" stroke-width="1.6" stroke-linecap="round"/>
+    <path class="steam" style="animation-delay:1.2s" d="M582,157 q-4,-6 0,-12 q4,-6 0,-12" fill="none" stroke="#E0F2FE" stroke-width="1.6" stroke-linecap="round"/>
+
+    <path class="waveA" fill="#0A5A9C" opacity="0.78" d="M0,236 q40,-6 80,0 t80,0 t80,0 t80,0 t80,0 t80,0 t80,0 t80,0 t80,0 t80,0 t80,0 t80,0 t80,0 t80,0 L1120,260 L0,260 Z"/>
+    <path class="waveB" fill="#073E73" d="M0,247 q30,-5 60,0 t60,0 t60,0 t60,0 t60,0 t60,0 t60,0 t60,0 t60,0 t60,0 t60,0 t60,0 t60,0 t60,0 t60,0 t60,0 t60,0 t60,0 L1080,260 L0,260 Z"/>
+  </g>
+</svg>
