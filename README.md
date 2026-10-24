@@ -17,11 +17,11 @@ As a Full-Stack Web Developer, I specialize in architecting and deploying robust
   <img src="./title-stack.svg" width="100%" alt="Tech Stack" />
 </p>
 
-<div align="center">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,php,laravel,mysql,mongodb,git,github,vscode,figma&theme=dark" alt="Tech Stack Logos" />
   </a>
-</div>
+</p>
 
 <br>
 
