@@ -1,61 +1,70 @@
-<h1 align="center">Raharjian (Nadia)</h1>
-
 <p align="center">
-  <strong>Informatics Student · Full-Stack Web Developer · UI/UX Designer</strong>
+  <img src="./banner.svg" width="100%" alt="Raharjian (Nadia) - Informatics Student, Full-Stack Developer, UI/UX Designer" />
 </p>
 
 <p align="center">
-  Building user-centric web applications at the intersection of design and engineering.
+  <a href="https://linkedin.com/in/LINK_LINKEDIN_KAMU"><img src="https://img.shields.io/badge/LinkedIn-0A3D75?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:EMAIL_KAMU@gmail.com"><img src="https://img.shields.io/badge/Email-0891D1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/nyndaa"><img src="https://img.shields.io/badge/GitHub-071426?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <img src="https://komarev.com/ghpvc/?username=nyndaa&label=Profile%20Views&color=0891D1&style=for-the-badge" alt="Profile views" />
 </p>
+
+<br>
+
+<h2 align="center">✦ About Me ✦</h2>
+
+```css
+.nadia {
+  role:        "Full-Stack Developer & UI/UX Designer";
+  education:   "Informatics, Universitas Teknologi Digital Indonesia";
+  focus:       "Bridging design and engineering";
+  stack:       PHP, Laravel, MySQL, JavaScript;
+  design-tool: Figma, Canva;
+  philosophy:  "Clean code. Thoughtful interfaces.";
+  status:      open-to-collaborate;
+}
+```
+
+<br>
+
+<h2 align="center">✦ Tech Stack ✦</h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/LINK_LINKEDIN_KAMU">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:EMAIL_KAMU@gmail.com">
-    <img src="https://img.shields.io/badge/Email-1F6FEB?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/nyndaa">
-    <img src="https://img.shields.io/badge/GitHub-24292F?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql&theme=dark" alt="Development stack" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=figma,git,github,vscode&theme=dark" alt="Design and tools" />
 </p>
 
----
+<table align="center">
+  <tr>
+    <td align="center"><b>Frontend</b></td>
+    <td align="center"><b>Backend</b></td>
+    <td align="center"><b>Database</b></td>
+    <td align="center"><b>Design</b></td>
+  </tr>
+  <tr>
+    <td align="center">HTML5 · CSS3 · JavaScript</td>
+    <td align="center">PHP · Laravel</td>
+    <td align="center">MySQL</td>
+    <td align="center">Figma · Canva</td>
+  </tr>
+</table>
 
-## About
+<br>
 
-I am an Informatics student at Universitas Teknologi Digital Indonesia (UTDI) with a strong interest in web development and product design. I focus on translating design thinking into clean, maintainable, and user-friendly applications.
-
-- Developing full-stack skills with **PHP**, **Laravel**, and **MySQL**
-- Designing interfaces and prototypes with **Figma**
-- Open to collaboration, discussion on tech trends, and learning new technologies
-
----
-
-## Tech Stack
-
-| Area | Technologies |
-| :--- | :--- |
-| **Frontend** | HTML5, CSS3, JavaScript |
-| **Backend** | PHP, Laravel |
-| **Database** | MySQL |
-| **Design** | Figma, Canva |
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,figma,git,github&theme=light" alt="Tech stack icons" />
-</p>
-
----
-
-## GitHub Stats
+<h2 align="center">✦ GitHub Stats ✦</h2>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nyndaa&show_icons=true&theme=default&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyndaa&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nyndaa&show_icons=true&hide_border=true&bg_color=071426&title_color=38BDF8&icon_color=0EA5E9&text_color=E0F2FE&include_all_commits=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyndaa&layout=compact&hide_border=true&bg_color=071426&title_color=38BDF8&text_color=E0F2FE" alt="Top Languages" />
 </p>
 
----
+<br>
 
-## Get in Touch
+<h2 align="center">✦ Let's Connect ✦</h2>
 
-I am always happy to connect for collaboration, internships, or project discussions. Reach out via LinkedIn or email.
+<p align="center">
+  Open to collaboration, internships, and project discussions.
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=110&section=footer" width="100%" alt="Footer wave" />
