@@ -70,11 +70,11 @@ As a Full-Stack Web Developer, I specialize in architecting and deploying robust
 
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nyndaa&bg_color=0b1220&color=7fdcff&title_color=4fc3f7&line=4fc3f7&point=bff4ff&area=true&area_color=0b4f9c&hide_border=true" width="100%" alt="Contribution Activity" />
+  <img src="https://raw.githubusercontent.com/nyndaa/nyndaa/activity/activity-graph.svg" width="100%" alt="Contribution Activity" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nyndaa/nyndaa/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/nyndaa/nyndaa/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake" />
 </p>
 
 
