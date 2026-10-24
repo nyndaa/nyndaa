@@ -31,9 +31,7 @@ As a Full-Stack Web Developer, I specialize in architecting and deploying robust
 
 <img align="right" width="300" src="./whale.svg" alt="Animated whale spouting water under the moon" />
 
-**Current Focus & Continuous Learning:**
-<br>
-PHP & Laravel Architecture | REST API Development | Database Optimization | Modern JavaScript | UI/UX Design Systems | Clean Code | AI Integration
+<img src="assets/ocean-learning.svg" alt="Current Focus and Continuous Learning" width="100%">
 
 <br clear="right" />
 
