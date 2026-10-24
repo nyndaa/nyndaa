@@ -10,6 +10,11 @@
 </p>
 
 <p align="center">
+  <img src="./dev-island.svg" width="100%" alt="Animated island with a developer's laptop" />
+</p>
+
+
+<p align="center">
   <img
     src="https://komarev.com/ghpvc/?username=nyndaa&label=Profile+Views&color=0891D1&style=plastic"
     alt="Profile Views"
@@ -141,6 +146,3 @@ I believe good software should be:
   <b>Thanks for visiting my profile! 🚀</b>
 </p>
 
-<p align="center">
-  <img src="./dev-island.svg" width="100%" alt="Animated island with a developer's laptop" />
-</p>
