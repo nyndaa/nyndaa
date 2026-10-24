@@ -25,24 +25,6 @@ As a Full-Stack Web Developer, I specialize in architecting and deploying robust
 
 <br>
 
-<p align="center">
-  <img src="./title-stats.svg" width="100%" alt="GitHub Statistics" />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=nyndaa&show_icons=true&hide_border=true&bg_color=071426&title_color=38BDF8&icon_color=0EA5E9&text_color=E0F2FE&include_all_commits=true"
-    height="180"
-    alt="GitHub Statistics"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyndaa&layout=compact&hide_border=true&bg_color=071426&title_color=38BDF8&text_color=E0F2FE"
-    height="180"
-    alt="Top Languages"
-  />
-</p>
-
-<br>
 
 <p align="center">
   <img src="./title-learning.svg" width="100%" alt="Currently Learning" />
@@ -102,12 +84,24 @@ I believe good software should be:
 
 <br>
 
-
 <p align="center">
-  <b>Thanks for visiting my profile! 🚀</b>
+  <img src="./title-stats.svg" width="100%" alt="GitHub Statistics" />
 </p>
 
 <p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=nyndaa&show_icons=true&hide_border=true&bg_color=071426&title_color=38BDF8&icon_color=0EA5E9&text_color=E0F2FE&include_all_commits=true"
+    height="180"
+    alt="GitHub Statistics"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyndaa&layout=compact&hide_border=true&bg_color=071426&title_color=38BDF8&text_color=E0F2FE"
+    height="180"
+    alt="Top Languages"
+  />
+</p>
+
+
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hello%2C+welcome+to+my+profile%21;I%27m+Raharjian+Sustanadia+Wijayanti;Full-Stack+Web+Developer;Laravel+%7C+PHP+%7C+MySQL;UI%2FUX+Designer+%7C+Figma;Always+Learning+%26+Improving"
     alt="Typing SVG"
@@ -117,4 +111,10 @@ I believe good software should be:
 <p align="center">
   <img src="./dev-island.svg" width="100%" alt="Animated island with a developer's laptop" />
 </p>
+
+<p align="center">
+  <b>Thanks for visiting my profile! 🚀</b>
+</p>
+
+<p align="center">
 
