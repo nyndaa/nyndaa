@@ -11,10 +11,11 @@
 
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=nyndaa&label=Profile%20Views&color=0891D1&style=flat"
+    src="https://komarev.com/ghpvc/?username=nyndaa&label=Profile+Views&color=0891D1&style=plastic"
     alt="Profile Views"
   />
 </p>
+
 
 <br>
 
