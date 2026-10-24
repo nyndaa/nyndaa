@@ -46,34 +46,6 @@ As a Full-Stack Web Developer, I specialize in architecting and deploying robust
 
 
 <p align="center">
-  <img src="./title-connect.svg" width="100%" alt="Connect With Me" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/nyndaa">
-    <img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/LINK_LINKEDIN_KAMU">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:EMAIL_KAMU@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="45" alt="Email" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/nyndaa">GitHub</a>
-  •
-  <a href="https://linkedin.com/in/LINK_LINKEDIN_KAMU">LinkedIn</a>
-  •
-  <a href="mailto:EMAIL_KAMU@gmail.com">Email</a>
-</p>
-
-<br>
-
-<p align="center">
   <img src="./title-stats.svg" width="100%" alt="GitHub Statistics" />
 </p>
 
@@ -96,8 +68,28 @@ As a Full-Stack Web Developer, I specialize in architecting and deploying robust
 </p>
 
 <p align="center">
-  <b>Thanks for visiting my profile! 🚀</b>
+  <img src="./title-connect.svg" width="100%" alt="Connect With Me" />
 </p>
 
 <p align="center">
+  <a href="https://github.com/nyndaa">
+    <img src="./assets/icon-github.svg" width="70" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/LINK_LINKEDIN_KAMU">
+    <img src="./assets/icon-linkedin.svg" width="70" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:EMAIL_KAMU@gmail.com">
+    <img src="./assets/icon-gmail.svg" width="70" alt="Email" />
+  </a>
+</p>
+
+<br>
+
+<p align="center">
+  <b>Thanks for visiting my profile!!!</b>
+</p>
+
+
 
