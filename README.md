@@ -74,9 +74,8 @@ As a Full-Stack Web Developer, I specialize in architecting and deploying robust
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nyndaa/nyndaa/output/github-snake.svg" width="100%" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/nyndaa/nyndaa/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 </p>
-
 
 
 
