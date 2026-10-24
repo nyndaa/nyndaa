@@ -16,9 +16,7 @@
   />
 </p>
 
-<p align="center">
-  <img src="./dev-island.svg" width="100%" alt="Animated island with a developer's laptop" />
-</p>
+
 <br>
 
 <p align="center">
@@ -141,4 +139,8 @@ I believe good software should be:
 
 <p align="center">
   <b>Thanks for visiting my profile! 🚀</b>
+</p>
+
+<p align="center">
+  <img src="./dev-island.svg" width="100%" alt="Animated island with a developer's laptop" />
 </p>
