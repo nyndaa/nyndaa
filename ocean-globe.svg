@@ -1,0 +1,177 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 440" width="400" height="440" role="img" aria-label="Animated ocean globe with a lighthouse, a sailboat and a moonlit sea">
+  <defs>
+    <clipPath id="globe"><circle cx="200" cy="200" r="178"/></clipPath>
+    <clipPath id="tower"><polygon points="106,230 130,230 124,158 112,158"/></clipPath>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#050E24"/>
+      <stop offset="0.6" stop-color="#0B3A78"/>
+      <stop offset="1" stop-color="#3B9BE0"/>
+    </linearGradient>
+    <linearGradient id="hz" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#6BC5F8" stop-opacity="0"/>
+      <stop offset="1" stop-color="#6BC5F8" stop-opacity="0.55"/>
+    </linearGradient>
+    <linearGradient id="sea" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0E7FC4"/>
+      <stop offset="1" stop-color="#052447"/>
+    </linearGradient>
+    <radialGradient id="moonGlow">
+      <stop offset="0" stop-color="#E0F2FE" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#E0F2FE" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="beam" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FEF9C3" stop-opacity="0.85"/>
+      <stop offset="1" stop-color="#FEF9C3" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="rim" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#E0F2FE" stop-opacity="0.9"/>
+      <stop offset="0.5" stop-color="#38BDF8" stop-opacity="0.25"/>
+      <stop offset="1" stop-color="#7DD3FC" stop-opacity="0.8"/>
+    </linearGradient>
+    <radialGradient id="glass" cx="0.3" cy="0.25" r="0.8">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.22"/>
+      <stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="shade">
+      <stop offset="0" stop-color="#000000" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+    <style>
+      .float{animation:bob 6s ease-in-out infinite}
+      .shadow{transform-origin:200px 410px;animation:shadow 6s ease-in-out infinite}
+      .tw{animation:twinkle 3.2s ease-in-out infinite}
+      .cloud{animation:cloud 46s linear infinite;animation-delay:-12s}
+      .cloud.b{animation-duration:62s;animation-delay:-30s}
+      .bird{animation:fly 16s linear infinite}
+      .waveA{animation:driftA 9s linear infinite}
+      .waveB{animation:driftB 6.5s linear infinite reverse}
+      .waveC{animation:driftC 5s linear infinite}
+      .boat{transform-origin:285px 258px;animation:rock 4.5s ease-in-out infinite}
+      .flag{transform-origin:285px 186px;animation:flutter 1s ease-in-out infinite alternate}
+      .beam{animation:beam 5s ease-in-out infinite}
+      .shimmer{transform-origin:275px 0;animation:shimmer 3s ease-in-out infinite}
+      .fish{opacity:0;animation:jump 9s ease-in-out infinite}
+      .bubble{opacity:0;animation:rise 5s ease-in infinite}
+      @keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}
+      @keyframes shadow{0%,100%{transform:scale(1);opacity:.9}50%{transform:scale(.86);opacity:.6}}
+      @keyframes twinkle{0%,100%{opacity:.2}50%{opacity:1}}
+      @keyframes cloud{from{transform:translateX(-120px)}to{transform:translateX(520px)}}
+      @keyframes driftA{from{transform:translateX(0)}to{transform:translateX(-200px)}}
+      @keyframes driftB{from{transform:translateX(0)}to{transform:translateX(-160px)}}
+      @keyframes driftC{from{transform:translateX(0)}to{transform:translateX(-240px)}}
+      @keyframes rock{0%,100%{transform:rotate(-3deg) translateY(0)}50%{transform:rotate(3deg) translateY(-3px)}}
+      @keyframes flutter{from{transform:scaleX(1)}to{transform:scaleX(.7)}}
+      @keyframes beam{0%,100%{opacity:.15}50%{opacity:.8}}
+      @keyframes shimmer{0%,100%{transform:scaleX(1);opacity:.55}50%{transform:scaleX(.7);opacity:.25}}
+      @keyframes rise{0%{transform:translateY(0);opacity:0}15%{opacity:.7}100%{transform:translateY(-70px);opacity:0}}
+      @keyframes fly{from{transform:translateX(-60px) translateY(0)}50%{transform:translateX(200px) translateY(-14px)}to{transform:translateX(480px) translateY(0)}}
+      @keyframes jump{
+        0%{transform:translate(0,0) rotate(-50deg);opacity:0}
+        4%{opacity:1}
+        12%{transform:translate(18px,-26px) rotate(-25deg)}
+        20%{transform:translate(36px,-34px) rotate(0deg)}
+        28%{transform:translate(54px,-24px) rotate(30deg)}
+        36%{transform:translate(70px,0) rotate(55deg);opacity:1}
+        38%,100%{transform:translate(72px,4px) rotate(60deg);opacity:0}
+      }
+      @media (prefers-reduced-motion: reduce){*{animation:none !important}}
+    </style>
+  </defs>
+
+  <ellipse class="shadow" cx="200" cy="410" rx="120" ry="12" fill="url(#shade)"/>
+
+  <g class="float">
+    <g clip-path="url(#globe)">
+      <rect width="400" height="400" fill="url(#sky)"/>
+      <rect y="170" width="400" height="66" fill="url(#hz)"/>
+
+      <circle cx="275" cy="105" r="62" fill="url(#moonGlow)"/>
+      <circle cx="275" cy="105" r="20" fill="#E0F2FE"/>
+      <circle cx="268" cy="99" r="4" fill="#BAE6FD" opacity="0.7"/>
+      <circle cx="283" cy="112" r="5" fill="#BAE6FD" opacity="0.6"/>
+
+      <circle class="tw" cx="130" cy="62" r="1.6" fill="#E0F2FE" style="animation-delay:0.0s"/>
+    <circle class="tw" cx="185" cy="46" r="1.2" fill="#E0F2FE" style="animation-delay:0.6s"/>
+    <circle class="tw" cx="240" cy="68" r="1.6" fill="#E0F2FE" style="animation-delay:1.2s"/>
+    <circle class="tw" cx="300" cy="92" r="1.2" fill="#E0F2FE" style="animation-delay:1.8s"/>
+    <circle class="tw" cx="95" cy="106" r="1.6" fill="#E0F2FE" style="animation-delay:2.2s"/>
+    <circle class="tw" cx="160" cy="96" r="1.2" fill="#E0F2FE" style="animation-delay:0.3s"/>
+    <circle class="tw" cx="212" cy="128" r="1.4" fill="#E0F2FE" style="animation-delay:1.5s"/>
+    <circle class="tw" cx="330" cy="150" r="1.2" fill="#E0F2FE" style="animation-delay:0.9s"/>
+    <circle class="tw" cx="70" cy="162" r="1.4" fill="#E0F2FE" style="animation-delay:2.6s"/>
+    <circle class="tw" cx="145" cy="132" r="1.1" fill="#E0F2FE" style="animation-delay:2.0s"/>
+    <circle class="tw" cx="244" cy="150" r="1.3" fill="#E0F2FE" style="animation-delay:0.2s"/>
+
+      <g class="cloud">
+        <ellipse cx="0" cy="150" rx="46" ry="8" fill="#9FD3F5" opacity="0.22"/>
+        <ellipse cx="24" cy="143" rx="28" ry="7" fill="#9FD3F5" opacity="0.22"/>
+      </g>
+      <g class="cloud b">
+        <ellipse cx="0" cy="184" rx="38" ry="6" fill="#9FD3F5" opacity="0.18"/>
+        <ellipse cx="-18" cy="179" rx="22" ry="5" fill="#9FD3F5" opacity="0.18"/>
+      </g>
+
+      <g transform="translate(0,118)">
+        <g class="bird">
+          <path d="M0,0 q6,-7 12,0 q6,-7 12,0" fill="none" stroke="#E0F2FE" stroke-width="1.6" stroke-linecap="round"/>
+          <path d="M34,12 q4,-5 8,0 q4,-5 8,0" fill="none" stroke="#E0F2FE" stroke-width="1.3" stroke-linecap="round"/>
+        </g>
+      </g>
+
+      <rect y="236" width="400" height="170" fill="url(#sea)"/>
+
+      <polygon class="beam" points="120,152 372,98 372,206" fill="url(#beam)"/>
+      <path d="M66,256 C74,236 98,228 124,229 C150,229 172,240 182,256 Z" fill="#0D2740"/>
+      <path d="M82,240 C96,230 114,228 124,229 C142,229 160,234 170,244 C150,238 120,236 82,240 Z" fill="#1E4468" opacity="0.8"/>
+      <polygon points="106,230 130,230 124,158 112,158" fill="#F8FAFC"/>
+      <g clip-path="url(#tower)">
+        <rect x="100" y="172" width="40" height="13" fill="#F43F5E"/>
+        <rect x="100" y="198" width="40" height="13" fill="#F43F5E"/>
+      </g>
+      <rect x="107" y="157" width="22" height="4" rx="1" fill="#334155"/>
+      <rect x="111" y="145" width="14" height="12" fill="#FDE68A"/>
+      <circle class="beam" cx="118" cy="151" r="16" fill="#FEF3C7" opacity="0.35"/>
+      <polygon points="108,145 128,145 118,133" fill="#334155"/>
+      <circle cx="118" cy="131" r="2" fill="#334155"/>
+
+      <path class="waveA" fill="#1593D9" opacity="0.88" d="M0,238 q50,-12 100,0 t100,0 t100,0 t100,0 t100,0 t100,0 t100,0 t100,0 L800,520 L0,520 Z"/>
+
+      <g transform="translate(185,275)">
+        <g class="fish">
+          <ellipse cx="0" cy="0" rx="8" ry="4" fill="#7DD3FC"/>
+          <polygon points="-7,0 -14,-5 -14,5" fill="#38BDF8"/>
+          <circle cx="4" cy="-1" r="1" fill="#071426"/>
+        </g>
+      </g>
+
+      <g class="boat">
+        <rect x="284" y="190" width="3" height="56" rx="1" fill="#E2E8F0"/>
+        <polygon points="288,194 288,241 323,241" fill="#F8FAFC"/>
+        <polygon points="283,201 283,241 259,241" fill="#BAE6FD"/>
+        <polygon class="flag" points="285,190 285,183 298,186.5" fill="#F43F5E"/>
+        <path d="M254,243 L318,243 L306,259 L267,259 Z" fill="#B45309"/>
+        <path d="M254,243 L318,243 L316,247 L256,247 Z" fill="#FDE68A"/>
+        <circle cx="272" cy="252" r="2" fill="#FDE68A"/>
+        <circle cx="286" cy="252" r="2" fill="#FDE68A"/>
+        <circle cx="300" cy="252" r="2" fill="#FDE68A"/>
+      </g>
+
+      <path class="waveB" fill="#0B6FB8" opacity="0.92" d="M0,262 q40,-14 80,0 t80,0 t80,0 t80,0 t80,0 t80,0 t80,0 t80,0 L640,520 L0,520 Z"/>
+      <path class="waveC" fill="#064A8C" opacity="0.95" d="M0,294 q60,-10 120,0 t120,0 t120,0 t120,0 t120,0 t120,0 L720,520 L0,520 Z"/>
+
+      <rect class="shimmer" x="252" y="266" width="46" height="3" rx="1.5" fill="#E0F2FE" opacity="0.55"/>
+      <rect class="shimmer" x="258" y="276" width="34" height="3" rx="1.5" fill="#E0F2FE" opacity="0.45" style="animation-delay:-1s"/>
+      <rect class="shimmer" x="263" y="288" width="24" height="3" rx="1.5" fill="#E0F2FE" opacity="0.35" style="animation-delay:-2s"/>
+
+      <circle class="bubble" cx="150" cy="330" r="3" fill="none" stroke="#BAE6FD" stroke-width="1.2" style="animation-delay:0s"/>
+    <circle class="bubble" cx="200" cy="348" r="2.5" fill="none" stroke="#BAE6FD" stroke-width="1.2" style="animation-delay:1.6s"/>
+    <circle class="bubble" cx="255" cy="322" r="2" fill="none" stroke="#BAE6FD" stroke-width="1.2" style="animation-delay:3.1s"/>
+    <circle class="bubble" cx="305" cy="338" r="3" fill="none" stroke="#BAE6FD" stroke-width="1.2" style="animation-delay:0.9s"/>
+    <circle class="bubble" cx="108" cy="312" r="2" fill="none" stroke="#BAE6FD" stroke-width="1.2" style="animation-delay:2.4s"/>
+    </g>
+
+    <circle cx="200" cy="200" r="178" fill="url(#glass)"/>
+    <circle cx="200" cy="200" r="178" fill="none" stroke="url(#rim)" stroke-width="3"/>
+    <path d="M46,144 A164,164 0 0 1 118,58" fill="none" stroke="#FFFFFF" stroke-opacity="0.32" stroke-width="4" stroke-linecap="round"/>
+  </g>
+</svg>
