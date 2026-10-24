@@ -73,15 +73,15 @@ As a Full-Stack Web Developer, I specialize in architecting and deploying robust
 
 <p align="center">
   <a href="https://github.com/nyndaa">
-    <img src="./assets/icon-github.svg" width="70" alt="GitHub" />
+    <img src="./icon-github.svg" width="70" alt="GitHub" />
   </a>
   &nbsp;&nbsp;
   <a href="https://linkedin.com/in/LINK_LINKEDIN_KAMU">
-    <img src="./assets/icon-linkedin.svg" width="70" alt="LinkedIn" />
+    <img src="./icon-linkedin.svg" width="70" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:EMAIL_KAMU@gmail.com">
-    <img src="./assets/icon-gmail.svg" width="70" alt="Email" />
+    <img src="./icon-gmail.svg" width="70" alt="Email" />
   </a>
 </p>
 
