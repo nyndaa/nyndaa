@@ -11,14 +11,7 @@
 
 <img align="right" width="300" src="./ocean-globe.svg" alt="Animated ocean globe with a lighthouse and a sailboat" />
 
-I'm an **Informatics student** at Universitas Teknologi Digital Indonesia and a **Full-Stack Developer** who enjoys turning thoughtful design into reliable, user-friendly web applications.
-
-- 💻 Focused on **Full-Stack Web Development**
-- 🔧 Building web applications with **PHP, Laravel & MySQL**
-- 🎨 Passionate about **UI/UX Design** and interface prototyping
-- 🤝 Bridging the gap between design and engineering
-- 💬 Always open to discussing tech trends and collaboration
-- 🌱 Always learning and improving my development skills
+As a Full-Stack Web Developer, I specialize in architecting and deploying robust web applications utilizing PHP, Laravel, and MySQL. My primary focus is on delivering scalable software solutions that meet strict technical requirements while prioritizing the end-user experience. By integrating solid backend engineering principles with a deep understanding of UI/UX design and interface prototyping, I effectively bridge the gap between complex system architecture and intuitive user interfaces. I am highly driven by a commitment to writing clean, maintainable code and continuously refining my technical stack. Always eager to tackle new challenges, I actively welcome opportunities for cross-functional collaboration and strategic discussions surrounding modern web development standards.
 
 <br clear="right" />
 
