@@ -18,18 +18,14 @@ As a Full-Stack Web Developer, I specialize in architecting and deploying robust
 
 <br clear="right" />
 
-
 <p align="center">
   <img src="./title-stack.svg" width="100%" alt="Tech Stack" />
 </p>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,php,laravel,mysql,mongodb,git,github,vscode,figma&theme=dark" alt="Tech Stack Logos" />
-  </a>
+  <img src="./philosophy-lighthouse.svg" width="100%" alt="Philosophy web developer" />
 </p>
 
-<br>
 
 
 <p align="center">
