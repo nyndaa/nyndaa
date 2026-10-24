@@ -7,7 +7,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hello%2C+welcome+to+my+profile%21;I%27m+Raharjian+Sustanadia+Wijayanti;Full-Stack+Web+Developer;Laravel+%7C+PHP+%7C+MySQL;UI%2FUX+Designer+%7C+Figma;Always+Learning+%26+Improving" alt="Typing SVG" />
 </p>
 
-
 <p align="center">
   <img src="./title-about.svg" width="100%" alt="About Me" />
 </p>
@@ -19,14 +18,12 @@ As a Full-Stack Web Developer, I specialize in architecting and deploying robust
 <br clear="right" />
 
 <p align="center">
-  <img src="./title-stack.svg" width="100%" alt="Tech Stack" />
+  <img src="./title-philosophy.svg" width="100%" alt="Developer Philosophy" />
 </p>
 
 <p align="center">
   <img src="./philosophy-lighthouse.svg" width="100%" alt="Philosophy web developer" />
 </p>
-
-
 
 <p align="center">
   <img src="./title-learning.svg" width="100%" alt="Currently Learning" />
@@ -34,29 +31,22 @@ As a Full-Stack Web Developer, I specialize in architecting and deploying robust
 
 <img align="right" width="300" src="./whale.svg" alt="Animated whale spouting water under the moon" />
 
-I'm continuously improving my knowledge in:
-
-- 🔥 **Laravel & REST API**
-- 🗄️ **Database Design & Optimization**
-- ⚛️ **Modern JavaScript & Frontend**
-- 🎨 **UI/UX Design & Design Systems**
-- 🏗️ **Clean Code & Software Architecture**
+**Current Focus & Continuous Learning:**
+<br>
+PHP & Laravel Architecture | REST API Development | Database Optimization | Modern JavaScript | UI/UX Design Systems | Clean Code | AI Integration
 
 <br clear="right" />
 
-<br>
-
 <p align="center">
-  <img src="./title-philosophy.svg" width="100%" alt="Developer Philosophy" />
+  <img src="./title-stack.svg" width="100%" alt="Tech Stack" />
 </p>
 
-> **"Design with empathy, build with precision, and ship products people enjoy using."**
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,php,laravel,mysql,mongodb,git,github,vscode,figma&theme=dark" alt="Tech Stack Logos" />
+  </a>
+</p>
 
-I believe good software should be:
-
-**Clean • Maintainable • User-Centric • Secure • Useful**
-
-<br>
 
 <p align="center">
   <img src="./title-connect.svg" width="100%" alt="Connect With Me" />
