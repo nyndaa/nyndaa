@@ -4,7 +4,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;Laravel+%7C+PHP+%7C+MySQL;UI%2FUX+Designer+%7C+Figma;Always+Learning+%26+Improving"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hello%2C+welcome+to+my+profile%21;I%27m+Raharjian+Sustanadia+Wijayanti;Full-Stack+Web+Developer;Laravel+%7C+PHP+%7C+MySQL;UI%2FUX+Designer+%7C+Figma;Always+Learning+%26+Improving"
     alt="Typing SVG"
   />
 </p>
