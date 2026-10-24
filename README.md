@@ -19,10 +19,10 @@
 <br>
 
 <p align="center">
-  <img src="./assets/title-about.svg" width="100%" alt="About Me" />
+  <img src="./title-about.svg" width="100%" alt="About Me" />
 </p>
 
-<img align="right" width="300" src="./assets/ocean-globe.svg" alt="Animated ocean globe with a lighthouse and a sailboat" />
+<img align="right" width="300" src="./ocean-globe.svg" alt="Animated ocean globe with a lighthouse and a sailboat" />
 
 I'm an **Informatics student** at Universitas Teknologi Digital Indonesia and a **Full-Stack Developer** who enjoys turning thoughtful design into reliable, user-friendly web applications.
 
@@ -38,7 +38,7 @@ I'm an **Informatics student** at Universitas Teknologi Digital Indonesia and a 
 <br>
 
 <p align="center">
-  <img src="./assets/title-stack.svg" width="100%" alt="Tech Stack" />
+  <img src="./title-stack.svg" width="100%" alt="Tech Stack" />
 </p>
 
 | | |
@@ -52,7 +52,7 @@ I'm an **Informatics student** at Universitas Teknologi Digital Indonesia and a 
 <br>
 
 <p align="center">
-  <img src="./assets/title-stats.svg" width="100%" alt="GitHub Statistics" />
+  <img src="./title-stats.svg" width="100%" alt="GitHub Statistics" />
 </p>
 
 <p align="center">
@@ -71,10 +71,10 @@ I'm an **Informatics student** at Universitas Teknologi Digital Indonesia and a 
 <br>
 
 <p align="center">
-  <img src="./assets/title-learning.svg" width="100%" alt="Currently Learning" />
+  <img src="./title-learning.svg" width="100%" alt="Currently Learning" />
 </p>
 
-<img align="right" width="300" src="./assets/whale.svg" alt="Animated whale spouting water under the moon" />
+<img align="right" width="300" src="./whale.svg" alt="Animated whale spouting water under the moon" />
 
 I'm continuously improving my knowledge in:
 
@@ -89,7 +89,7 @@ I'm continuously improving my knowledge in:
 <br>
 
 <p align="center">
-  <img src="./assets/title-philosophy.svg" width="100%" alt="Developer Philosophy" />
+  <img src="./title-philosophy.svg" width="100%" alt="Developer Philosophy" />
 </p>
 
 > **"Design with empathy, build with precision, and ship products people enjoy using."**
@@ -101,7 +101,7 @@ I believe good software should be:
 <br>
 
 <p align="center">
-  <img src="./assets/title-connect.svg" width="100%" alt="Connect With Me" />
+  <img src="./title-connect.svg" width="100%" alt="Connect With Me" />
 </p>
 
 <p align="center">
