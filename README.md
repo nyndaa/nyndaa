@@ -1,88 +1,59 @@
 <p align="center">
-  <img src="./banner.svg" width="100%" alt="Raharjian Sustanadia Wijayanti - Informatics Student, Full-Stack Web Developer, UI/UX Designer" />
+  <img src="./banner.svg" width="100%" alt="Raharjian (Nadia) - Informatics Student, Full-Stack Developer, UI/UX Designer" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nyndaa&label=Profile%20Views&color=0891D1&style=for-the-badge" alt="Profile views" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Laravel+%7C+PHP+%7C+MySQL;UI%2FUX+Designer+%7C+Figma;Always+Learning+%26+Improving"
+    alt="Typing SVG"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=nyndaa&label=Profile%20Views&color=0891D1&style=flat"
+    alt="Profile Views"
+  />
 </p>
 
 <br>
 
----
-
-## 🚀 About Me
-
-I'm an **Informatics student** at Universitas Teknologi Digital Indonesia specializing in Full-Stack Web Development and UI/UX Design. I focus on engineering scalable, user-centric applications by bridging the gap between aesthetic interface design and robust server-side architecture.
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <b>🎯 Focus:</b> Full-Stack Web Architecture<br>
-      <b>💻 Core Stack:</b> PHP, Laravel, MySQL
-    </td>
-    <td valign="top" width="50%">
-      <b>🎨 Specialization:</b> Interface Prototyping & UI/UX<br>
-      <b>🌱 Currently Advancing:</b> REST APIs & Clean Code
-    </td>
-  </tr>
-</table>
----
-
-## 🛠️ Tech Stack
-
-### 💻 Frontend
-
-<p align="left">
-  <img
-    src="https://skillicons.dev/icons?i=html,css,js"
-    alt="Frontend"
-  />
+<p align="center">
+  <img src="./assets/title-about.svg" width="100%" alt="About Me" />
 </p>
 
-### ⚙️ Backend & Frameworks
+<img align="right" width="300" src="./assets/ocean-globe.svg" alt="Animated ocean globe with a lighthouse and a sailboat" />
 
-<p align="left">
-  <img
-    src="https://skillicons.dev/icons?i=php,laravel"
-    alt="Backend and Frameworks"
-  />
+I'm an **Informatics student** at Universitas Teknologi Digital Indonesia and a **Full-Stack Developer** who enjoys turning thoughtful design into reliable, user-friendly web applications.
+
+- 💻 Focused on **Full-Stack Web Development**
+- 🔧 Building web applications with **PHP, Laravel & MySQL**
+- 🎨 Passionate about **UI/UX Design** and interface prototyping
+- 🤝 Bridging the gap between design and engineering
+- 💬 Always open to discussing tech trends and collaboration
+- 🌱 Always learning and improving my development skills
+
+<br clear="right" />
+
+<br>
+
+<p align="center">
+  <img src="./assets/title-stack.svg" width="100%" alt="Tech Stack" />
 </p>
 
-### 🗄️ Databases
+| | |
+| :-- | :-- |
+| **💻 Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js" alt="Frontend" /> |
+| **⚙️ Backend** | <img src="https://skillicons.dev/icons?i=php,laravel" alt="Backend" /> |
+| **🗄️ Database** | <img src="https://skillicons.dev/icons?i=mysql" alt="Database" /> |
+| **🔧 Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development Tools" /> |
+| **🎨 Design** | <img src="https://skillicons.dev/icons?i=figma" alt="Figma" /> <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" height="48" /> |
 
-<p align="left">
-  <img
-    src="https://skillicons.dev/icons?i=mysql"
-    alt="Databases"
-  />
+<br>
+
+<p align="center">
+  <img src="./assets/title-stats.svg" width="100%" alt="GitHub Statistics" />
 </p>
-
-### 🔧 Development Tools
-
-<p align="left">
-  <img
-    src="https://skillicons.dev/icons?i=git,github,vscode"
-    alt="Development Tools"
-  />
-</p>
-
-### 🎨 Design Tools
-
-<p align="left">
-  <img
-    src="https://skillicons.dev/icons?i=figma"
-    alt="Design Tools"
-  />
-  &nbsp;
-  <img
-    src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"
-    alt="Canva"
-  />
-</p>
-
----
-
-## 📊 GitHub Statistics
 
 <p align="center">
   <img
@@ -97,16 +68,13 @@ I'm an **Informatics student** at Universitas Teknologi Digital Indonesia specia
   />
 </p>
 
----
-
-## 📚 Currently Learning
+<br>
 
 <p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=laravel,php,js,figma"
-    alt="Currently Learning"
-  />
+  <img src="./assets/title-learning.svg" width="100%" alt="Currently Learning" />
 </p>
+
+<img align="right" width="300" src="./assets/whale.svg" alt="Animated whale spouting water under the moon" />
 
 I'm continuously improving my knowledge in:
 
@@ -116,9 +84,13 @@ I'm continuously improving my knowledge in:
 - 🎨 **UI/UX Design & Design Systems**
 - 🏗️ **Clean Code & Software Architecture**
 
----
+<br clear="right" />
 
-## 💭 Developer Philosophy
+<br>
+
+<p align="center">
+  <img src="./assets/title-philosophy.svg" width="100%" alt="Developer Philosophy" />
+</p>
 
 > **"Design with empathy, build with precision, and ship products people enjoy using."**
 
@@ -126,33 +98,23 @@ I believe good software should be:
 
 **Clean • Maintainable • User-Centric • Secure • Useful**
 
----
+<br>
 
-## 🌐 Connect With Me
+<p align="center">
+  <img src="./assets/title-connect.svg" width="100%" alt="Connect With Me" />
+</p>
 
 <p align="center">
   <a href="https://github.com/nyndaa">
-    <img
-      src="https://skillicons.dev/icons?i=github"
-      width="45"
-      alt="GitHub"
-    />
+    <img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub" />
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/LINK_LINKEDIN_KAMU">
-    <img
-      src="https://skillicons.dev/icons?i=linkedin"
-      width="45"
-      alt="LinkedIn"
-    />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="mailto:EMAIL_KAMU@gmail.com">
-    <img
-      src="https://skillicons.dev/icons?i=gmail"
-      width="45"
-      alt="Email"
-    />
+    <img src="https://skillicons.dev/icons?i=gmail" width="45" alt="Email" />
   </a>
 </p>
 
@@ -164,14 +126,7 @@ I believe good software should be:
   <a href="mailto:EMAIL_KAMU@gmail.com">Email</a>
 </p>
 
----
-
-
-
-<p align="center">
-  <b>Thanks for visiting my profile! 🚀</b>
-</p>
-
+<br>
 
 <p align="center">
   <img
@@ -179,4 +134,8 @@ I believe good software should be:
     width="100%"
     alt="Footer"
   />
+</p>
+
+<p align="center">
+  <b>Thanks for visiting my profile! 🚀</b>
 </p>
