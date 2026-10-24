@@ -63,9 +63,7 @@ As a Full-Stack Web Developer, I specialize in architecting and deploying robust
 </p>
 
 
-<p align="center">
-  <img src="./dev-island.svg" width="100%" alt="Animated island with a developer's laptop" />
-</p>
+
 
 
 
@@ -75,6 +73,12 @@ As a Full-Stack Web Developer, I specialize in architecting and deploying robust
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/nyndaa/nyndaa/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake" />
+</p>
+
+
+
+<p align="center">
+  <img src="./dev-island.svg" width="100%" alt="Animated island with a developer's laptop" />
 </p>
 
 
