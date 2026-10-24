@@ -1,39 +1,70 @@
-<div align="center">
-  <h1>Hi, I'm Raharjian (Nadia) Wijayanti 👋</h1>
-  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&pause=1000&color=0077B5&center=true&vCenter=true&width=500&lines=Informatics+Student;Full-Stack+Developer;UI%2FUX+Designer" alt="Typing SVG" />
-  </p>
-  
-  <a href="https://linkedin.com/in/LINK_LINKEDIN_KAMU">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:EMAIL_KAMU@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
+<p align="center">
+  <img src="./banner.svg" width="100%" alt="Raharjian (Nadia) - Informatics Student, Full-Stack Developer, UI/UX Designer" />
+</p>
 
----
+<p align="center">
+  <a href="https://linkedin.com/in/LINK_LINKEDIN_KAMU"><img src="https://img.shields.io/badge/LinkedIn-0A3D75?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:EMAIL_KAMU@gmail.com"><img src="https://img.shields.io/badge/Email-0891D1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/nyndaa"><img src="https://img.shields.io/badge/GitHub-071426?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <img src="https://komarev.com/ghpvc/?username=nyndaa&label=Profile%20Views&color=0891D1&style=for-the-badge" alt="Profile views" />
+</p>
 
-## 👩‍💻 About Me
-I am an **Informatics Student** at Universitas Teknologi Digital Indonesia (UTDI) with a strong passion for web development and UI/UX design. I focus on bridging the gap between aesthetic design and robust engineering to build scalable, user-centric applications.
+<br>
 
-- 🚀 **Focus:** Full-stack development combining clean UI/UX with efficient server-side architecture.
-- 🛠️ **Learning:** Constantly exploring modern tech trends and advanced web development frameworks.
-- 🤝 **Collaboration:** Always open to discussing tech, collaborating on impactful projects, and learning new stacks.
+<h2 align="center">✦ About Me ✦</h2>
 
----
+```css
+.nadia {
+  role:        "Full-Stack Developer & UI/UX Designer";
+  education:   "Informatics, Universitas Teknologi Digital Indonesia";
+  focus:       "Bridging design and engineering";
+  stack:       PHP, Laravel, MySQL, JavaScript;
+  design-tool: Figma, Canva;
+  philosophy:  "Clean code. Thoughtful interfaces.";
+  status:      open-to-collaborate;
+}
+```
 
-## 💻 Tech Stack & Tools
+<br>
 
-| **Frontend** | **Backend** | **Database** | **Design & Tools** |
-| :--- | :--- | :--- | :--- |
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)<br><br>![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)<br><br>![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)<br><br>![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)<br><br>![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white) |
+<h2 align="center">✦ Tech Stack ✦</h2>
 
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql&theme=dark" alt="Development stack" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=figma,git,github,vscode&theme=dark" alt="Design and tools" />
+</p>
 
-## 📊 GitHub Analytics
+<table align="center">
+  <tr>
+    <td align="center"><b>Frontend</b></td>
+    <td align="center"><b>Backend</b></td>
+    <td align="center"><b>Database</b></td>
+    <td align="center"><b>Design</b></td>
+  </tr>
+  <tr>
+    <td align="center">HTML5 · CSS3 · JavaScript</td>
+    <td align="center">PHP · Laravel</td>
+    <td align="center">MySQL</td>
+    <td align="center">Figma · Canva</td>
+  </tr>
+</table>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nyndaa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nyndaa&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
-</div>
+<br>
+
+<h2 align="center">✦ GitHub Stats ✦</h2>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nyndaa&show_icons=true&hide_border=true&bg_color=071426&title_color=38BDF8&icon_color=0EA5E9&text_color=E0F2FE&include_all_commits=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyndaa&layout=compact&hide_border=true&bg_color=071426&title_color=38BDF8&text_color=E0F2FE" alt="Top Languages" />
+</p>
+
+<br>
+
+<h2 align="center">✦ Let's Connect ✦</h2>
+
+<p align="center">
+  Open to collaboration, internships, and project discussions.
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=110&section=footer" width="100%" alt="Footer wave" />
