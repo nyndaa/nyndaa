@@ -2,6 +2,9 @@
   <img src="./banner.svg" width="100%" alt="Raharjian (Nadia) - Informatics Student, Full-Stack Developer, UI/UX Designer" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nyndaa&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hello%2C+welcome+to+my+profile%21;I%27m+Raharjian+Sustanadia+Wijayanti;Full-Stack+Web+Developer;Laravel+%7C+PHP+%7C+MySQL;UI%2FUX+Designer+%7C+Figma;Always+Learning+%26+Improving" alt="Typing SVG" />
@@ -101,11 +104,6 @@ As a Full-Stack Web Developer, I specialize in architecting and deploying robust
   </a>
 </p>
 
-<br>
-
-<p align="center">
-  <b>Thanks for visiting my profile!!!</b>
-</p>
 
 
 
