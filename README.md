@@ -29,9 +29,8 @@ As a Full-Stack Web Developer, I specialize in architecting and deploying robust
   <img src="./title-learning.svg" width="100%" alt="Currently Learning" />
 </p>
 
-<img align="right" width="300" src="./whale.svg" alt="Animated whale spouting water under the moon" />
 
-<img src="assets/ocean-learning.svg" alt="Current Focus and Continuous Learning" width="100%">
+<img src="./ocean-learning.svg" alt="Current Focus and Continuous Learning" width="100%">
 
 <br clear="right" />
 
