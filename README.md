@@ -1,36 +1,31 @@
 <p align="center">
-  <img src="./banner.svg" width="100%" alt="Raharjian (Nadia) - Informatics Student, Full-Stack Developer, UI/UX Designer" />
+  <img src="./banner.svg" width="100%" alt="Raharjian Sustanadia Wijayanti - Informatics Student, Full-Stack Web Developer, UI/UX Designer" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/LINK_LINKEDIN_KAMU"><img src="https://img.shields.io/badge/LinkedIn-0A3D75?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:EMAIL_KAMU@gmail.com"><img src="https://img.shields.io/badge/Email-0891D1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/nyndaa"><img src="https://img.shields.io/badge/GitHub-071426?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <img src="https://komarev.com/ghpvc/?username=nyndaa&label=Profile%20Views&color=0891D1&style=for-the-badge" alt="Profile views" />
 </p>
 
 <br>
 
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=nyndaa&label=Profile%20Views&color=0891D1&style=flat"
-    alt="Profile Views"
-  />
-</p>
-
 ---
 
 ## 🚀 About Me
 
-I'm an **Informatics student** at Universitas Teknologi Digital Indonesia and a **Full-Stack Developer** who enjoys turning thoughtful design into reliable, user-friendly web applications.
+I'm an **Informatics student** at Universitas Teknologi Digital Indonesia specializing in Full-Stack Web Development and UI/UX Design. I focus on engineering scalable, user-centric applications by bridging the gap between aesthetic interface design and robust server-side architecture.
 
-- 💻 Focused on **Full-Stack Web Development**
-- 🔧 Building web applications with **PHP, Laravel & MySQL**
-- 🎨 Passionate about **UI/UX Design** and interface prototyping
-- 🤝 Bridging the gap between design and engineering
-- 💬 Always open to discussing tech trends and collaboration
-- 🌱 Always learning and improving my development skills
-
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <b>🎯 Focus:</b> Full-Stack Web Architecture<br>
+      <b>💻 Core Stack:</b> PHP, Laravel, MySQL
+    </td>
+    <td valign="top" width="50%">
+      <b>🎨 Specialization:</b> Interface Prototyping & UI/UX<br>
+      <b>🌱 Currently Advancing:</b> REST APIs & Clean Code
+    </td>
+  </tr>
+</table>
 ---
 
 ## 🛠️ Tech Stack
