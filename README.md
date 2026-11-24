@@ -99,7 +99,7 @@ As a Full-Stack Web Developer, I specialize in architecting and deploying robust
     <img src="./icon-linkedin.svg" width="70" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:EMAIL_KAMU@gmail.com">
+  <a href="mailto:UntukKerja555@gmail.com">
     <img src="./icon-gmail.svg" width="70" alt="Email" />
   </a>
 </p>
