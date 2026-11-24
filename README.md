@@ -95,7 +95,7 @@ As a Full-Stack Web Developer, I specialize in architecting and deploying robust
     <img src="./icon-github.svg" width="70" alt="GitHub" />
   </a>
   &nbsp;&nbsp;
-  <a href="www.linkedin.com/in/raharjian-sustanadia-wijayanti">
+  <a href="https://www.linkedin.com/in/raharjian-sustanadia-wijayanti/">
     <img src="./icon-linkedin.svg" width="70" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
